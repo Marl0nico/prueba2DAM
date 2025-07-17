@@ -28,3 +28,9 @@
 
 <img width="1618" height="174" alt="image" src="https://github.com/user-attachments/assets/b81a6341-450e-42e6-969c-5ff4b1c49771" />
 
+* Lista de tareas
+
+<img width="488" height="789" alt="image" src="https://github.com/user-attachments/assets/294f233a-b8a9-4112-9939-fb5bf86f190e" />
+
+<img width="493" height="675" alt="image" src="https://github.com/user-attachments/assets/8300cd99-cd27-42b7-962d-193575bfab7a" />
+
