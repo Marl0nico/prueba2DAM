@@ -1,3 +1,30 @@
-# app_prueba
+# Prueba 2
 
-A new Flutter project.
+* Inicio de sesión
+
+<img width="491" height="766" alt="image" src="https://github.com/user-attachments/assets/b8978b01-5feb-4e07-a9ae-83d53e680d8a" />
+
+* Registro
+
+<img width="492" height="752" alt="image" src="https://github.com/user-attachments/assets/7f29eb5d-82be-476a-9928-23ecf9c81b94" />
+
+* Confirmación de la cuenta
+
+<img width="879" height="566" alt="image" src="https://github.com/user-attachments/assets/c2f13200-d13b-45ca-9e3b-44f1ff6619c1" />
+
+* Home
+
+<img width="492" height="794" alt="image" src="https://github.com/user-attachments/assets/86c0df89-6483-477a-8e64-d0facf154e3d" />
+
+* Registrar tarea
+
+<img width="489" height="748" alt="image" src="https://github.com/user-attachments/assets/39902fdc-4ffd-4d5b-810a-7dbdda4e2271" />
+
+* Registros en Supabase
+
+<img width="1794" height="451" alt="image" src="https://github.com/user-attachments/assets/d5ac7895-520e-47ac-bedc-83bf6e9d1dae" />
+
+<img width="675" height="441" alt="image" src="https://github.com/user-attachments/assets/ec8650d1-1b55-4693-a8ce-75928437bd0b" />
+
+<img width="1618" height="174" alt="image" src="https://github.com/user-attachments/assets/b81a6341-450e-42e6-969c-5ff4b1c49771" />
+
