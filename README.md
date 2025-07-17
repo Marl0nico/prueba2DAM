@@ -1,4 +1,4 @@
-# Prueba 2
+# Prueba 2 - Marlon Nicolalde
 
 * Inicio de sesión
 
@@ -38,4 +38,12 @@
 
 <img width="1803" height="692" alt="image" src="https://github.com/user-attachments/assets/a6d43942-824e-4dfc-813a-d03859bc7cc2" />
 
+* Pruebas en dispositivo móvil
 
+![WhatsApp Image 2025-07-17 at 4 54 03 PM (2)](https://github.com/user-attachments/assets/574f4652-baa8-4f40-89ff-0953852482f2)
+
+![WhatsApp Image 2025-07-17 at 4 54 03 PM (1)](https://github.com/user-attachments/assets/7be0ab8a-2eed-4ae3-8a1f-83fa61ab53de)
+
+![WhatsApp Image 2025-07-17 at 4 54 03 PM](https://github.com/user-attachments/assets/9d47af92-b197-4615-ab67-0959a05e99c8)
+
+![WhatsApp Image 2025-07-17 at 4 54 02 PM](https://github.com/user-attachments/assets/4ac22c72-6f9b-4a99-8b3c-62a1add453e1)
